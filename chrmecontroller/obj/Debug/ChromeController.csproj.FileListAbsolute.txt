@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\ChromeController\bin\Debug\ChromeController.exe.config
+C:\Users\Administrator\source\repos\ChromeController\bin\Debug\ChromeController.exe
+C:\Users\Administrator\source\repos\ChromeController\bin\Debug\ChromeController.pdb
+C:\Users\Administrator\source\repos\ChromeController\obj\Debug\ChromeController.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\ChromeController\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\source\repos\ChromeController\obj\Debug\App.g.cs
+C:\Users\Administrator\source\repos\ChromeController\obj\Debug\ChromeController_MarkupCompile.cache
+C:\Users\Administrator\source\repos\ChromeController\obj\Debug\ChromeController_MarkupCompile.lref
+C:\Users\Administrator\source\repos\ChromeController\obj\Debug\MainWindow.baml
+C:\Users\Administrator\source\repos\ChromeController\obj\Debug\ChromeController.g.resources
+C:\Users\Administrator\source\repos\ChromeController\obj\Debug\ChromeController.Properties.Resources.resources
+C:\Users\Administrator\source\repos\ChromeController\obj\Debug\ChromeController.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\ChromeController\obj\Debug\ChromeController.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ChromeController\obj\Debug\ChromeController.exe
+C:\Users\Administrator\source\repos\ChromeController\obj\Debug\ChromeController.pdb
